@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Properties
+*application.properties
+
+# Misc 
+HELP.md
+target/
+.project
